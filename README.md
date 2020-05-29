@@ -17,7 +17,7 @@
 
 ## Table of Contents
 
-> Our Latest Releases 
+#Our Latest Releases 
 
 - Version 1.7 <a href="https://drive.google.com/file/d/1JW4350ZfXXEH4Yn9Ze_z8-3cBjevr0t0/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
 
