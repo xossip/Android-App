@@ -26,6 +26,7 @@
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
+- Email at <a href="xossipboard@gmail.com" target="_blank">`Xossip Board`</a>
 
 ---
 
@@ -33,8 +34,8 @@
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
+- Email at <a href="xossipboard@gmail.com" target="_blank">`Xossip Board`</a>
+- Instagram at <a href="http://twitter.com/fvcproductions" target="_blank">`@xossipboard`</a>
 - Insert more social links here.
 
 ---
