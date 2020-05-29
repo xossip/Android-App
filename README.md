@@ -19,15 +19,12 @@
 
 > Our Latest Releases 
 
-- Version 1.7 <a href="https://drive.google.com/file/d/1JW4350ZfXXEH4Yn9Ze_z8-3cBjevr0t0/view?usp=sharing" target="_blank">`v 1.7`</a>
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-- Email at <a href="xossipboard@gmail.com" target="_blank">`Xossip Board`</a>
+- Version 1.7 <a href="https://drive.google.com/file/d/1JW4350ZfXXEH4Yn9Ze_z8-3cBjevr0t0/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
+
+- Version 1.5 <a href="https://drive.google.com/file/d/1PShb5oXLfrgoOSOw129VkPq0dtSRBaTw/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
+
+
+
 
 ---
 
