@@ -19,6 +19,8 @@ All your Favorites Forums
 
 Our Latest Releases 
 
+- Version 1.8 <a href="https://drive.google.com/file/d/13wciaAwerxhzn9Ud3irSUd1WmQ-uZtKC/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
+
 - Version 1.7 <a href="https://drive.google.com/file/d/1JW4350ZfXXEH4Yn9Ze_z8-3cBjevr0t0/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
 
 - Version 1.5 <a href="https://drive.google.com/file/d/1PShb5oXLfrgoOSOw129VkPq0dtSRBaTw/view?usp=sharing" target="_blank">`FREE DOWNLOAD`</a>
